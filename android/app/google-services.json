@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "952951632645",
+    "firebase_url": "https://ar-green-6b22f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ar-green-6b22f",
+    "storage_bucket": "ar-green-6b22f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952951632645:android:058cb6ab5a37d7dd3e3d6c",
+        "android_client_info": {
+          "package_name": "com.detech_dev.greendocorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEbRboOOhFcNndLaWVTeTm9a5uDAR5nsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
